@@ -1,4 +1,4 @@
-# C-Console-Project-Assignment-6
+# CSharp-Console-Project-Assignment-6
 
 A simple C# console application developed using .NET 10.0.  
 This project generates a multiplication table for a user-provided number using both `for` loop and `while` loop.
